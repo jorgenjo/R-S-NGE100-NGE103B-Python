@@ -8,6 +8,9 @@ Tests Passing
 
 ![npm package](https://img.shields.io/badge/%5BSUBJECT%5D-v.1.0.0-COLOR%5D.svg)
 
+[<img src="path/to/image.png">](https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/releases/latest)
+
+
 ![npm package](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg)
 
 
