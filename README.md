@@ -10,7 +10,7 @@ Tests Passing
 
 https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/labels/v.1.0.0
 
-https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/releases/latest
+![NGE103B](https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/releases/latest)
 
 
 Example code for Rohde&Schwarz Powersupply NGE103B written in Python
