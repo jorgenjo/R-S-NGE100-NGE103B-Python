@@ -4,6 +4,10 @@
 [![v.1.0.0][2]][3] [![build status][4]][5]
 [![downloads][8]][9] [![js-standard-style][10]][11]
 
+Tests Passing
+
+https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg
+
 https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/labels/v.1.0.0
 
 https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/releases/latest
