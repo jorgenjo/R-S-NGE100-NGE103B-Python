@@ -6,7 +6,7 @@
 
 Tests Passing
 
-https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg
+![npm package](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg)
 
 https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/labels/v.1.0.0
 
