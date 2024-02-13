@@ -1,7 +1,5 @@
 # Rohde-Schwarz-NGE100-NGE103B-Python
 
-https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/releases/tag/v1.0.0
-
 https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/releases/latest
 
 
