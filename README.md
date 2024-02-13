@@ -6,7 +6,7 @@
 
 Tests Passing
 
-![npm package](https://img.shields.io/badge/%5BSUBJECT%5D-%5BSTATUS%5D-%5BCOLOR%5D.svg)
+![npm package](https://img.shields.io/badge/%5BSUBJECT%5D-%5Bv.1.0.0%5D-%5BCOLOR%5D.svg)
 
 ![npm package](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg)
 
