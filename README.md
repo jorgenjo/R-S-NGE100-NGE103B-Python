@@ -2,4 +2,17 @@
 
 Example code for Rohde&Schwarz Powersupply NGE103B written in Python
 
+Note: On the NGE103B, USB VCP (Virtual Com Port) must be enabled.
+
+This example scans for a comport with a Rohde&Schwarz device.
+- Sets the voltage and current on CH1 - CH3.
+- Reads the Voltage and current.
+
+
+
+
+
+
+
+
 
