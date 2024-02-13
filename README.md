@@ -1,7 +1,7 @@
 # Rohde-Schwarz-NGE100-NGE103B-Python
 
 # github-standard-labels [![stability][0]][1]
-[![npm version][2]][3] [![build status][4]][5]
+[![v.1.0.0][2]][3] [![build status][4]][5]
 [![downloads][8]][9] [![js-standard-style][10]][11]
 
 https://github.com/jorgenjo/Rohde-Schwarz-NGE100-NGE103B-Python/labels/v.1.0.0
